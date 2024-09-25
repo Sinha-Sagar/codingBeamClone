@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Space Grotesk', 'sans-serif';
+}
+
+.options{
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+li > a{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#search{
+    background-color: #262626;
+}
+
+#search::placeholder {
+    color: lightgray; 
+    opacity: 1; 
+}
